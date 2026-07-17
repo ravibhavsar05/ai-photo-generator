@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Biker",
+    "template": "assets/templates/gen_ai_63RBdKhxgissR2DyxMVd.png",
+    "prompt": "Create an image of me [photo attached] an ultra-realistic portrait. I am sitting on a glossy black sports bike in an outdoor area against a backdrop of green trees. I am wearing a loose black t-shirt, loose dark jeans with pleats at the bottom, and black and white Nike sneakers. Accessories worn include a black watch. My left hand rests casually on my thigh, while my right hand rests on the bike while holding a glossy black helmet with a clear visor.\nThe bike appears detailed with a large engine, strong frame, and shiny chrome details, accentuating the modern and powerful impression. The background shows tall trees with soft natural light, creating a balanced mix of shadow and light. The expression is calm and confident, looking directly at the camera.\nThe overall style is cinematic and modern, combining the feel of youthful streetwear with the presence of a bold motorcycle. High resolution, photorealistic editorial style.",
+    "isprem": true,
+    "id": "63RBdKhxgissR2DyxMVd"
+  },
+  {
+    "id": "791k5DoLbcKyaNtgFo1p",
+    "isprem": false,
+    "prompt": "Studio portrait of a confident man sitting on a modern beige armchair with wooden legs, leaning slightly forward with his hands together. He wears a dark navy blue dress shirt with the top buttons open, light beige slim-fit pants, and black loafers with tan soles. He has short dark brown hair styled with texture, a trimmed full beard, tanned skin, and an intense confident gaze directed at the camera. The background is minimalist light gray with a smooth gradient, evenly lit with soft natural studio lighting. The mood is cinematic and fashion editorial, with high realism and fine details. Shot with a 50mm lens at f/2.8, vertical framing, full-body composition the subject from the uploaded image, maintaining the exact real face, hairstyle, skin tone, and body identity unchanged.",
+    "template": "assets/templates/gen_ai_791k5DoLbcKyaNtgFo1p.png",
+    "name": "Modern"
+  },
+  {
+    "template": "assets/templates/gen_ai_K8k6WnBksSp69NcfTnFf.png",
+    "prompt": "Vintage, sun-drenched lifestyle portrait of a woman sitting casually in the driver\u2019s seat of a classic luxury car, angled toward the passenger, elbow on center console, chin resting on hand, direct gaze to camera. Cream leather interior, wood dashboard with analog dials, car door open on a sunny day. Golden hour natural light, warm cinematic tones, soft highlights and shadows. She wears a faded vintage rock band t-shirt, black choker, white sneakers. Long sun-kissed hair, minimal natural makeup. Shot on full-frame 35mm or 50mm, f/2\u2013f/2.8, shallow depth of field, slight film grain. Use the user\u2019s reference image to match facial features, skin tone, hair, and identity with high fidelity.",
+    "name": "Vintage",
+    "id": "K8k6WnBksSp69NcfTnFf",
+    "isprem": false
+  },
+  {
+    "isprem": false,
+    "id": "bL6v7KaGAozXaYcYie2p",
+    "name": "Elegant",
+    "prompt": "Ultra-realistic full-length garden portrait. Woman sitting sideways on a rustic wooden swing wrapped with ropes, colorful flowers, and green vines. Barefoot, one leg crossed, one hand holding the rope, warm wide smile, direct eye contact. Long flowing red halter dress with high slit and delicate bodice details. Long dark straight hair. Lush green garden background with creamy bokeh. Golden hour backlight and contour light. Shot on full-frame 85mm, f/1.8\u20132.8, ISO 100\u2013200. Use the user\u2019s reference image with maximum facial fidelity\u2014face, skin tone, eyes, hair unchanged.",
+    "template": "assets/templates/gen_ai_bL6v7KaGAozXaYcYie2p.png"
+  },
+  {
+    "name": "Street",
+    "template": "assets/templates/gen_ai_fAqhijzOycJwClFhBw0f.png",
+    "prompt": "Ultra-realistic cinematic street portrait of a stylish man standing confidently in a rainy urban street. He wears dark sunglasses, a brown hoodie layered under a rust-colored shearling jacket, black cargo pants, and black boots. Hands in pockets, relaxed masculine posture. Light rain falling, wet pavement with reflections, blurred pedestrians holding umbrellas in the background. Moody atmosphere, shallow depth of field, soft natural daylight, editorial fashion photography style, high detail, DSLR realism.",
+    "isprem": false,
+    "id": "fAqhijzOycJwClFhBw0f"
+  },
+  {
+    "prompt": "Hyper-ultra realistic 8K cinematic portrait. Use the provided reference image as the sole source for facial features\u2014face, skin tone, eye color, hair, expression unchanged and identical. Confident, approachable expression. Stylish man leaning casually against a dark industrial metal door frame, one hand resting. Natural cinematic lighting, shallow depth of field, high realism, no face alteration.",
+    "template": "assets/templates/gen_ai_fRI6YIVXZSVuoOW0WCJF.png",
+    "name": "Formal",
+    "id": "fRI6YIVXZSVuoOW0WCJF",
+    "isprem": false
+  },
+  {
+    "id": "hcMQ75iFKFT5lfFiRnuW",
+    "isprem": false,
+    "prompt": "Luxury editorial-style realistic portrait of the same man from the reference image (short trimmed beard, combed-back hair, thick-rimmed glasses, confident mature expression) leaning against a polished black sports car at sunset. He wears a tailored navy blue suit, white shirt, burgundy tie, brown leather shoes, elegant watch. Sophisticated urban viewpoint with stone parapet and mountains in the background. Warm golden-hour sunset light with orange and pink tones reflecting on the car. Full-body composition, confident posture, cinematic lighting, ultra-detailed skin, fabric, and reflections.\nNegative Prompt:\nblurry, cartoonish, low detail, oversaturated, messy background, casual clothing, distorted car, unrealistic reflections, unnatural skin tones, harsh lighting.",
+    "template": "assets/templates/gen_ai_hcMQ75iFKFT5lfFiRnuW.png",
+    "name": "Luxury"
+  },
+  {
+    "id": "klttCHV8kH8zFOAFqKtK",
+    "isprem": false,
+    "prompt": "Cinematic mid-length portrait of a confident woman standing beside a brown horse with a white facial marking, one hand gently holding the halter. Direct gaze to camera, strong elegant presence. Neutral long-sleeve shirt with open V-neck, earthy pants, brown leather belt with large gold buckle, gold chain on belt, stacked bracelets. Long voluminous wavy hair, natural defined makeup. Open field background with cloudy sky, soft overcast natural light, gentle bokeh. Shot on full-frame 85mm, f/2\u20132.8, ISO 100\u2013200, ultra-realistic. Use the user\u2019s reference image with maximum facial fidelity\u2014face, skin tone, eyes, hair unchanged.",
+    "template": "assets/templates/gen_ai_klttCHV8kH8zFOAFqKtK.png",
+    "name": "Equestrian"
+  },
+  {
+    "isprem": false,
+    "id": "o4SnyA1Ksu5o8JKC1iIg",
+    "name": "Elite",
+    "prompt": "Luxury editorial-style cinematic portrait of the same man from the reference image, face unchanged (short trimmed beard, combed-back hair, thick-rimmed glasses, confident mature expression). He stands beside a high-performance red sports car on a private airport runway, with a white executive jet centered in the background. Tailored black suit, open white shirt, black leather shoes, luxury watch. Midday natural light, blue sky with soft clouds, strong reflections on asphalt and car. Ultra-realistic textures, sharp focus, powerful and sophisticated mood.\nNegative Prompt: blurry, cartoonish, oversaturated, low detail, casual clothing, cluttered background, distorted proportions, harsh lighting, unrealistic shadows or reflections.",
+    "template": "assets/templates/gen_ai_o4SnyA1Ksu5o8JKC1iIg.png"
+  },
+  {
+    "template": "assets/templates/gen_ai_qZlR6HJxf1cK5Yj5bDQO.png",
+    "prompt": "Ultra-realistic DSLR-style photo of a man sitting on the edge of a high mountain peak overlooking Rio de Janeiro. Sugarloaf Mountain, coastline, city, and ocean visible below under a hazy blue morning sky. He wears a dark gray t-shirt, light beige cargo shorts, black cap worn backward. Calm expression, looking at camera. Soft natural morning light, high resolution, strong sense of height, adventure, and tranquility.",
+    "name": "Adventure",
+    "id": "qZlR6HJxf1cK5Yj5bDQO",
+    "isprem": false
+  },
+  {
+    "id": "vwoEGWj4YHF9as5EuLZz",
+    "isprem": false,
+    "prompt": "To create a photo, with Times Square in the background, in the center of the photo a black Lamborghini Urus and the person in the photo sitting on the ground in front of the car, leaning their back against it, with their right leg bent and their right arm resting on it, with their left leg extended and their left hand resting on the ground, the person in the photo should be wearing a basic tight-fitting black short-sleeved t-shirt, tight-fitting black dress pants and a black belt, black dress shoes, a dress watch on their right hand, the person should be wearing sunglasses and looking straight ahead, the day should be night and Times Square should be fully illuminated. Keep the person's face and tattoos intact, without changing their hairstyle, and make the image as realistic as possible.",
+    "template": "assets/templates/gen_ai_vwoEGWj4YHF9as5EuLZz.png",
+    "name": "Night"
+  },
+  {
+    "name": "Headshot",
+    "prompt": "A realistic portrait of a young male, natural facial features, confident and calm expression, well-groomed hair, wearing casual modern clothing, soft natural lighting, high detail, sharp focus, neutral background, cinematic depth of field, realistic skin texture, professional photography style",
+    "template": "assets/templates/gen_ai_xNUhAyrnevpQcUZ6FXBW.png",
+    "isprem": false,
+    "id": "xNUhAyrnevpQcUZ6FXBW"
+  }
+]
