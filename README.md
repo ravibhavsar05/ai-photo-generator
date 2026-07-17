@@ -4,9 +4,7 @@ Artiva AI is a premium, feature-rich Flutter mobile application that leverages G
 
 ## 📱 App Demo
 
-<p align="center">
-  <video src="assets/videos/demo.mp4" width="280" controls></video>
-</p>
+https://github.com/ravibhavsar05/ai-photo-generator/raw/main/assets/videos/demo.mp4
 
 ---
 
