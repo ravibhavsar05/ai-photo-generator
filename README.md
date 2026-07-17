@@ -2,6 +2,12 @@
 
 Artiva AI is a premium, feature-rich Flutter mobile application that leverages Google's advanced Gemini generative models to create, edit, and enhance images. With clean GetX state management, responsive layouts, and local history management, it provides a seamless user experience for AI-powered photo generation and editing.
 
+## 📱 App Demo
+
+<p align="center">
+  <video src="assets/videos/demo.mov" width="280" controls></video>
+</p>
+
 ---
 
 ## 🌟 Key Features
