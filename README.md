@@ -5,7 +5,9 @@ Artiva AI is a premium, feature-rich Flutter mobile application that leverages G
 ## 📱 App Demo
 
 <p align="center">
-  <img src="assets/videos/demo.gif" width="280" alt="Artiva AI App Demo" />
+  <a href="assets/videos/demo.mp4">
+    <img src="assets/images/thumbnail.png" width="280" alt="Watch Demo Video" />
+  </a>
 </p>
 
 ---
