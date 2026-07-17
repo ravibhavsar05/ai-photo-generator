@@ -1,5 +1,7 @@
 # 🎨 Artiva AI - AI Photo Generator
 
+[![Flutter CI](https://github.com/ravibhavsar05/ai-photo-generator/actions/workflows/flutter.yml/badge.svg)](https://github.com/ravibhavsar05/ai-photo-generator/actions/workflows/flutter.yml)
+
 Artiva AI is a premium, feature-rich Flutter mobile application that leverages Google's advanced Gemini generative models to create, edit, and enhance images. With clean GetX state management, responsive layouts, and local history management, it provides a seamless user experience for AI-powered photo generation and editing.
 
 ---
